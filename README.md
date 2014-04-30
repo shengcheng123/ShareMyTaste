@@ -1,0 +1,4 @@
+ShareMyTaste
+============
+
+ A social network
